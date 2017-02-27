@@ -1,0 +1,173 @@
+ @media screen and (min-width: 960px) and (max-width: 1080px) {
+   .wrapper {
+     width: 900px;
+   }
+   .level__svg {
+     height: 40px;
+   }
+   .education__header:after,
+   .contact__header:after {
+     width: 300px;
+   }
+   .experience__header:after,
+   .qualities__header:after {
+     width: 180px;
+   }
+   .hobbies__header:after {
+     width: 320px;
+   }
+   .hobbies__svg {
+     margin-left: -50px;
+   }
+   .sport {
+     left: -10px;
+   }
+   .auto-moto {
+     left: 85px;
+   }
+   .travel {
+     left: 140px;
+   }
+   .computers {
+     left: 230px;
+   }
+   .photo {
+     left: 66px;
+   }
+ }
+ 
+ @media screen and (min-width: 700px) and (max-width: 959px) {
+   .wrapper {
+     width: 100%;
+   }
+   .colum-l,
+   .colum-r {
+     display: block;
+     width: 50%;
+     min-width: 400px;
+     margin: 0 auto;
+   }
+   .skills {
+     width: 450px;
+     margin: 0 auto;
+   }
+   .education__header:after,
+   .contact__header:after {
+     width: 180px;
+   }
+   .experience__header:after,
+   .qualities__header:after {
+     width: 60px;
+   }
+   .hobbies__header:after {
+     width: 200px;
+   }
+   .hobbies__svg {
+     margin-left: -100px;
+   }
+   .sport {
+     left: -60px;
+   }
+   .auto-moto {
+     left: 35px;
+   }
+   .travel {
+     left: 90px;
+   }
+   .computers {
+     left: 180px;
+   }
+   .photo {
+     left: 16px;
+   }
+   .portfolio__content {
+     width: 90%;
+     margin: 0 auto;
+   }
+ }
+ 
+ @media screen and (max-width: 699px) {
+   .wrapper {
+     width: 100%;
+   }
+   .colum-l,
+   .colum-r {
+     display: block;
+     margin: 0 auto;
+     width: 310px;
+   }
+   .colum-r {
+     padding-left: 60px;
+   }
+   .name {
+     width: 100%;
+     font-size: 40px;
+   }
+   .skills__title {
+     width: 240px;
+     font-size: 18px;
+     margin-left: 50px;
+   }
+   .skills__title::after {
+     left: -45px;
+   }
+   .level__svg {
+     height: 35px;
+   }
+   .education__header,
+   .experience__header,
+   .qualities__header,
+   .hobbies__header,
+   .contact__header {
+     font-size: 18px;
+   }
+   .education__header:after,
+   .contact__header:after,
+   .experience__header:after,
+   .qualities__header:after,
+   .hobbies__header:after {
+     width: 100%;
+     bottom: -10px;
+     left: -30px;
+   }
+   .hobbies__svg {
+     display: none;
+   }
+   .hobbies__svg--mobile {
+     display: block;
+     width: 320px;
+     height: 460px;
+     margin-left: -60px;
+   }
+   .sport {
+     left: -20px;
+   }
+   .auto-moto {
+     left: 75px;
+   }
+   .travel {
+     left: 130px;
+   }
+   .computers {
+     left: 40px;
+     top: 295px;
+   }
+   .photo {
+     left: -45px;
+   }
+   .portfolio__title {
+     font-size: 40px;
+     width: 300px;
+   }
+   .portfolio__content {
+     display: block;
+     width: 90%;
+     max-width: 400px;
+     margin: 0 auto;
+   }
+   .portfolio__colum {
+     display: block;
+     margin: 0;
+     padding: 20px 0;
+   }
+ }

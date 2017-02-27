@@ -1,0 +1,166 @@
+@media screen and (min-width: 1400px) {
+    .our_services-gloves {
+        width: 330px;
+        height: 220px;
+    }
+    .our_services-cleaner {
+        left: -60px;
+    }
+    .carousel-pointer1 {
+        top: 90%;
+        left: 30%;
+    }
+    .carousel-pointer2 {
+        top: 73%;
+        left: 40%;
+    }
+    .carousel-pointer5 {
+        top: 57%;
+        right: 20%;
+    }
+    .our-contacts-girle {
+        left: 38%;
+    }
+    .contacts {
+        margin-right: 300px;
+    }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1250px) {
+    nav {
+        width: 650px;
+    }
+    nav ul li {
+        margin: 16px 14px;
+    }
+    .wrapper {
+        width: 900px;
+    }
+    .logotype {
+        width: 150px;
+        height: auto;
+    }
+    .logotype-title {
+        margin: 20px 40px 0 20px;
+    }
+    .our_work-navigation a {
+        width: 190px;
+    }
+    .telefon_number {
+        font-size: 14px;
+        width: 180px;
+    }
+    .telefon_number p {
+        font-size: 14px;
+    }
+    .header-title {
+        font-size: 16px;
+    }
+     
+   
+    .header-title p:nth-child(2) {
+        font-size: 40px;
+    }
+    .header-title {
+        width: 390px;
+    }
+    .our_services-cleaner {
+        left: -300px;
+    }
+    .our_services-content ul:first-child {
+        margin-left: 100px;
+    }
+    .our_services-content ul li {
+        margin: 40px 10px;
+    }
+    .our_services-gloves {
+        width: 160px;
+        height: 110px;
+    }
+    .our_services-gloves {
+        top: 30px;
+    }
+    .our_services-add ul li {
+        width: 130px;
+        height: 130px;
+        background-size: 130px 130px;
+        padding-top: 0;
+    }
+    .our_services-add ul li:hover {
+        background-size: 130px 130px;
+    }
+    .our_services-add a {
+        font-size: 14px;
+    }
+    .our_services {
+        height: 540px;
+    }
+    .waranty-content {
+        width: 900px;
+    }
+    .carousel-pointer1 {
+        top: 77%;
+        left: 35%;
+    }
+    .steps-content {
+        width: 900px;
+    }
+    .carousel-pointer2 {
+        top: 67%;
+        left: 48%;
+    }
+    .carousel-pointer3 {
+        right: 5%;
+    }
+    .carousel-pointer4 {
+        right: 50px;
+    }
+    .carousel-pointer5 {
+        top: 57%;
+        right: 3%;
+    }
+    .our-contacts-girle {
+        height: 350px;
+        width: auto;
+        top: 260px;
+        left: 37%;
+    }
+    .contacts {
+        margin-right: 10px;
+        top: 0;
+    }
+    .seo-content {
+        width: 900px
+    }
+    .seo1 {
+        width: 100px;
+        left: 180px;
+        top: 170px;
+    }
+    .seo2 {
+        width: 200px;
+        left: 0px;
+        top: 220px;
+    }
+    .seo3 {
+        width: 200px;
+        height: auto;
+    }
+    .subscribe_news-content {
+        color: #fff;
+        padding-top: 40px;
+        padding-left: 0;
+    }
+    .subscribe-form {
+        width: 400px;
+    }
+    .subscribe-form input {
+        width: 180px;
+    }
+    .footer_nav li {
+        margin-right: 20px;
+    }
+    .footer-content {
+        width: 900px;
+    }
+}
